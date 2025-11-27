@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "أحمد المدير",
+      "role": "admin",
+      "email": "admin@school.com"
+    },
+    {
+      "id": 2,
+      "name": "أ. محمد",
+      "role": "teacher",
+      "email": "teacher@school.com"
+    },
+    {
+      "id": 3,
+      "name": "الطالب عمر",
+      "role": "student",
+      "email": "student@school.com"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 101,
+      "title": "الرياضيات - الدرس الأول",
+      "grade": "الصف الأول الثانوي"
+    }
+  ],
+  "exams": [],
+  "grades": []
+}
